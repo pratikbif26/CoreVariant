@@ -1,0 +1,14 @@
+[
+    {
+        "id": "chr17:41215920", 
+        "gene": "BRCA1", 
+        "classification": "Pathogenic", 
+        "evidence": "This variant c.5266dupC (p.Gln1756Profs) creates a premature translational stop signal in the BRCA1 gene. It is a known founder mutation in the Ashkenazi Jewish population and has been definitively linked to hereditary breast and ovarian cancer syndrome. Functional assays demonstrate complete loss of homology-directed DNA repair capability."
+    },
+    {
+        "id": "chr7:117559590", 
+        "gene": "CFTR", 
+        "classification": "Pathogenic", 
+        "evidence": "The deltaF508 variant in the CFTR gene is the most common cause of cystic fibrosis. It results in protein misfolding and premature degradation in the endoplasmic reticulum, preventing the chloride channel from reaching the apical cell membrane. Literature strongly correlates this homozygous state with severe pulmonary and pancreatic insufficiency."
+    }
+]
